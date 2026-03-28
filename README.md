@@ -29,7 +29,7 @@
 <h2>📸 Our Cute Photos</h2>
 <div class="photos">
   <img src="IMG_20260325_182048.jpg" />
-  <img src="IMG_20260312_225050.jpg />
+  <img src="IMG_20260312_225050.jpg" />
 </div>
 
   </div><script>
