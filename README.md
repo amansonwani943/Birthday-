@@ -16,7 +16,7 @@
   <div class="card">
     <h1>🎂 Happy Birthday Meri Dharm Patni Jii 😚💗</h1>
     <p>Happy Birthday meri pyari Dharm Patni Jii ❤️ Aap meri zindagi ki sabse pyari khushi ho.</p><audio autoplay loop>
-  <source src="https://drive.google.com/uc?export=download&id=1FC61Ep6p0MK3YagAFu0vpF-07mwCg7jo" type="audio/mpeg">
+  <source src="Jeene Laga Hoon Ramaiya Vastavaiya 320 Kbps.mp3" >
 </audio>
 
 <div class="grid">
@@ -26,7 +26,7 @@
   <div class="box"><div id="seconds">0</div><small>Seconds</small></div>
 </div>
 
-<h2>📸 Our Cute Photos</h2>
+<h2>📸 Our Cute Photos Mela Bacchaa</h2>
 <div class="photos">
   <img src="IMG_20260325_182048.jpg" />
   <img src="IMG_20260312_225050.jpg" />
