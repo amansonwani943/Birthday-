@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -43,4 +43,4 @@ setInterval(()=>{
  document.getElementById('seconds').innerText = Math.max(0, Math.floor((diff/1000)%60));
 },1000);
 </script></body>
-</html>
+
