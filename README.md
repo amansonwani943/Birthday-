@@ -28,7 +28,7 @@
 
 <h2>📸 Our Cute Photos</h2>
 <div class="photos">
-  <img src="https://drive.google.com/uc?export=view&id=1dCllkGufaA-9Uu1SOxgGLtKC2qZEXVjl" />
+  <img src="IMG_20260325_182048.jpg" />
   <img src="https://drive.google.com/uc?export=view&id=1QU7AeSbRlaugruhEqV0ll5KP3jQcKTGV" />
 </div>
 
